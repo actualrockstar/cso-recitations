@@ -6,6 +6,7 @@
 // the least significant bit and 31-th bit is the most significant bit.
 // For example, if a = 10 and n = 0, the function should return 11
 //              if a = 10 and n = 1, the function should return 8
+// You may assume 0 <= n <= 31
 int toggle_nth_bit(int a, int n) {
   //Your code here
 
